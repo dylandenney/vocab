@@ -1,1 +1,4 @@
 # vocab
+This repo is for boosting your vocabulary skills.
+Simply download the vocab.py file and run it.
+python3 vocab.py
